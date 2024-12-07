@@ -1,0 +1,15 @@
+{
+  "originHash" : "a274efccf5c299f481683288e550d6df2670b64e356e13f12e60dfd7bf118e25",
+  "pins" : [
+    {
+      "identity" : "geofence-trigger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/umutboz/geofence-trigger",
+      "state" : {
+        "branch" : "main",
+        "revision" : "75d6f0761566ded9a0c3f95d9c0a56ffd11165df"
+      }
+    }
+  ],
+  "version" : 3
+}
